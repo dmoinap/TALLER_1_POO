@@ -1,0 +1,11 @@
+{
+    "2": {
+        "id": "2",
+        "periodo": "3",
+        "profesor": "4",
+        "asignatura": "5",
+        "detalleNota": [],
+        "fecha_creacion": "2024-09-11",
+        "active": true
+    }
+}
